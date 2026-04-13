@@ -1,0 +1,8 @@
+{
+  "serviceDeskId": "1",
+  "requestTypeId": "2",
+  "requestFieldValues": {
+    "summary": "[FQH] Reported issue from SAP Fiori app",
+    "description": "Issue generated from Fiori Quality Hub with context, reproduction steps, expected result, actual result, and evidence references."
+  }
+}

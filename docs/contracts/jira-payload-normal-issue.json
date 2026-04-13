@@ -1,0 +1,34 @@
+{
+  "fields": {
+    "project": {
+      "key": "BSS"
+    },
+    "summary": "[FQH] Failed UAT execution in Payment Request",
+    "description": {
+      "type": "doc",
+      "version": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Issue generated from Fiori Quality Hub. Include structured context, reproduction steps, expected result, actual result, and evidence references."
+            }
+          ]
+        }
+      ]
+    },
+    "issuetype": {
+      "name": "Task"
+    },
+    "priority": {
+      "name": "Medium"
+    },
+    "labels": [
+      "fiori-quality-hub",
+      "uat",
+      "auto-created"
+    ]
+  }
+}
